@@ -430,6 +430,7 @@ Shows the overall image-to-memory, RISC-V convolution, and output-image reconstr
 - Digital Image Processing
 - Sobel Edge Detection
 - Multiply-Accumulate Arithmetic
+- Visual Studio Code
 
 The processor design is intended for FPGA implementation and experimentation with hardware acceleration of CNN-style convolution operations.
 
